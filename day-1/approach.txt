@@ -1,0 +1,12 @@
+# DAY 1
+
+## Part 1
+
+1. Convert string into array
+2. Map each value with the calculation function
+3. Reduce the value into a single answer
+
+## Part 2
+
+1. Change fuel_per_module calculation to also account for fuel for fuel
+2. Write a recursive function fuel_for_fuel
