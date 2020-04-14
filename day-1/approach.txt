@@ -2,7 +2,7 @@
 
 ## Part 1
 
-1. Convert string into array
+1. Convert string into array/vector
 2. Map each value with the calculation function
 3. Reduce the value into a single answer
 
